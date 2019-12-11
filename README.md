@@ -1,5 +1,10 @@
 # react-native-signature-capture
 
+This is a fork from the original [RepairShopr/react-native-signature-capture](https://github.com/RepairShopr/react-native-signature-capture/pull/119/files)
+but includes changes made from [Symous/react-native-signature-capture](Symous/react-native-signature-capture) to add fileName property.
+
+
+
 ## About this
 React Native library for capturing signature
 
